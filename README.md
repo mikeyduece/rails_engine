@@ -7,7 +7,7 @@ The Rails Engine API allows you to query metadata and perform business analytics
 All URLs referenced in this documentation have the following base:
 
 
-<a href="https://rocky-dawn-71159.herokuapp.com">https://rocky-dawn-71159.herokuapp.com</a>
+<a href="http://localhost:3000">http://localhost:3000</a>
 
 
 ## Getting Started
